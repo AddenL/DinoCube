@@ -1,0 +1,154 @@
+{
+  "settings": {
+    "name": "恐龙魔盒 | DinoCube",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 11,
+    "versionPublish": "4.5.2",
+    "favicon": "@PROJECT_PATH@/assets/images/icon603x-128x128.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fullsizeoutput-13cf-2-2000x1452.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>恐龙魔盒</b><br><b>DinoCube</b>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1",
+          "_styles": {
+            "B": {
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<br>增强现实<br><br>",
+          "caption1": "基于ARKit创建，使用增强现实的魔力将灭绝的恐龙再次复活.<br>灯光感知，物理材质球和高动态范围环境贴图将恐龙栩栩如生地带入真实世界。",
+          "title2": "<br>照片与录像<br><br>",
+          "caption2": "创建属于你自己的，电影特效般的奇妙场景，这一切可以将你的想象力发挥得淋漓尽致，想象恐龙从来没有灭绝是怎样的？记录并分享与恐龙一起互动的趣事给朋友或小孩。",
+          "title3": "<br>自由操控<br><br>",
+          "caption3": "操作你的恐龙变得十分简单。使用控制器只需滑动手指便能轻易控制恐龙的行动，奔跑，行走或飞翔，根据不同的恐龙点击身体还会有不一样动作反应，让它们穿梭在你的世界中吧！<br>",
+          "title4": "无论哪里<br>任意尺寸<br><br>",
+          "caption4": "从无数恐龙中挑选的经典恐龙，你可以将它们放置在任何平面上，缩放到任意尺寸，庞然大物或是迷你可爱，这一切取决于你将如何让这些恐龙变得更加有趣。<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "联系我们",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">发送</a>",
+          "form": {
+            "action": "liuxin.cg@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9"
+        }
+      ]
+    }
+  }
+}
