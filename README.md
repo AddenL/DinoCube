@@ -1,0 +1,2 @@
+# DinoCube
+GitHub Pages
