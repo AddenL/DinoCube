@@ -46,7 +46,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "<b>恐龙魔盒</b><br><b>DinoCube</b>",
+          "title": "恐龙魔盒<br>DinoCube",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
@@ -58,6 +58,12 @@
           "_styles": {
             "B": {
               "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "H1": {
+              "color": "#ffffff",
+              "text-align": "center",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
